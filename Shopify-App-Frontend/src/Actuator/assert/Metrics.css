@@ -1,0 +1,28 @@
+.metrics-container {
+    background-color: #f5f7fa;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .metrics-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .metrics-list {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .metrics-list .Polaris-DescriptionList__Term {
+    font-weight: bold;
+  }
+  
+  .metrics-list .Polaris-DescriptionList__Description {
+    color: #666;
+  }
+  
+
+  
